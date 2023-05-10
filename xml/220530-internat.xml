@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internats_menu>
+    <date>menu du 30 au 02 juin 2022</date>
+    <Lundi>
+        <slot0>
+            <title>plat 1</title>
+            <plat>Salade aux lardons croûtons et vinaigre de framboise</plat>  
+        </slot0>
+
+        <slot1>
+            <title>plat 2</title>
+            <plat>Salade au manouri croûtons et vinaigre de framboise</plat>  
+        </slot1>
+    </Lundi>
+    <Mardi>
+        <slot0>
+            <title>plat 1</title>
+            <plat>Pâtes au pesto</plat>  
+        </slot0>
+
+        <slot1>
+            <title>plat 2</title>
+            <plat>Pâtes au pesto rouge</plat>  
+        </slot1>
+    </Mardi>
+    <Mercredi>
+        <slot0>
+            <title>plat 1</title>
+            <plat>saucisse blanche à la moutarde</plat>  
+        </slot0>
+
+        <slot1>
+            <title>plat 2</title>
+            <plat>saucisse végétarienne à la moutarde</plat>  
+        </slot1>
+
+        <slot2>
+            <title>accompagnement</title>
+            <plat>riz</plat>  
+        </slot2>
+
+        <slot3>
+            <title>légumes</title>
+            <plat>haricots verts</plat>  
+        </slot3>
+    </Mercredi>
+    <Jeudi>
+        <slot0>
+            <title>plat 1</title>
+            <plat>Bagel aux légumes grillés</plat>  
+        </slot0>
+
+        <slot1>
+            <title>plat 2</title>
+            <plat>salade</plat>  
+        </slot1>
+
+        <slot2>
+            <title>dessert</title>
+            <plat>glace</plat>  
+        </slot2>
+    </Jeudi>
+</internats_menu>

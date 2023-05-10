@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+   <lundi>
+       <date>Lundi 25 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Pâtes au pesto vert</plat>  
+                    <undertitle>basilic, grana padano, haricots verts, pignons de pin</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Pâtes à la tombée de légumes</plat>  
+                    <undertitle>olives, tomates, huile d’olives, oignons, aubergines, courgettes</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>Fruit</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </lundi>
+   <mardi>
+       <date>Mardi 26 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Pot-au-feu aux légumes</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Pot-au-feu à la viande</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>Tarte au sucre</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </mardi>
+   <mercredi>
+       <date>Mercredi 27 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Risotto aux champignons</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Risotto au poisson</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>Fruit</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </mercredi>
+   <jeudi>
+       <date>Jeudi 28 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Quiche aux légumes</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Quiche lorraine</plat>  
+                    <undertitle>lard, oignons, flan œufs et crème</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>Mousse au chocolat</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </jeudi>
+   <vendredi>
+       <date>Vendredi 29 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Wok aux légumes</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Wok légumes tofu</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>salade de fruits</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </vendredi>
+</menu>

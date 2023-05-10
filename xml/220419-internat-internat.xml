@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internats_menu>
+       <date>menu du 19 au 22 avril 2022</date>
+        <slot0>
+            <title>lundi</title>
+            <plat>Ferié</plat>
+        </slot0>
+
+        <slot1>
+            <title>mardi</title>
+            <plat>Buffet froid</plat>
+        </slot1>
+
+        <slot2>
+            <title>mercredi</title>
+            <plat>Yakitoris de poulet riz de 
+Camargue 
+Yakitoris de tofu riz de camargue 
+Salade de à l’huile de sésame et vinaigre de riz 
+Légumes</plat>
+        </slot2>
+
+        <slot3>
+            <title>jeudi</title>
+            <plat>Tarte fromage et oignons salade glace</plat>
+        </slot3>
+</internats_menu>
+<?xml version="1.0" encoding="UTF-8"?>
+<internats_menu>
+       <date>menu du 19 au 22 avril 2022</date>
+        <slot0>
+            <title>lundi</title>
+            <plat>Ferié</plat>
+        </slot0>
+
+        <slot1>
+            <title>mardi</title>
+            <plat>Buffet froid</plat>
+        </slot1>
+
+        <slot2>
+            <title>mercredi</title>
+            <plat>Yakitoris de poulet riz de 
+Camargue 
+Yakitoris de tofu riz de camargue 
+Salade de à l’huile de sésame et vinaigre de riz 
+Légumes</plat>
+        </slot2>
+
+        <slot3>
+            <title>jeudi</title>
+            <plat>Tarte fromage et oignons salade glace</plat>
+        </slot3>
+</internats_menu>

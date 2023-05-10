@@ -1,0 +1,17 @@
+{
+  "name": "heimrichhannot/pdf-creator",
+  "type": "library",
+  "description": "PdfCreator is a high level API for PDF file creating with PHP.",
+  "license": "LGPL-3.0-or-later",
+  "require": {
+    "php": "^7.2",
+    "psr/log": "^1.0",
+    "ausi/slug-generator": "^1.1",
+    "symfony/filesystem": "^3.4|^4.0|^5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "HeimrichHannot\\PdfCreator\\": "PdfCreator/"
+    }
+  }
+}

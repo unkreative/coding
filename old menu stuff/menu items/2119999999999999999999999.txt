@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <lundi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>Plat1</title>
+            <plat> Gratin de macaroni à la dinde Dindes du Haff a Sewen Meispelt</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Gratin de macaroni aux légumes</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat> Brownie</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title></title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+  </lundi>
+  <mardi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Potaufeu de bœuf bœuf (Galloway) cuit dans son bouillon avec des légumes</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Potaufeu végétarien</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat> Pommes de terre nature</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>Dessert</title>
+            <plat> Muffin à la vanille</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot5>
+            <title></title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot5>
+  </mardi>
+  <mercredi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Curry aux lentilles</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Quinoa à la fondue de poireaux</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>Accompagnement</title>
+            <plat> Tortillas bio</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>dessert</title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot5>
+            <title></title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot5>
+  </mercredi>
+  <jeudi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Quenelles de brochet sauce Nantua sauce à base de crustacés</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Steak de choufleur sauce Aurore sauce tomatée</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat> Riz de Camargue</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>Legumes</title>
+            <plat> Tiramisu</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot5>
+            <title>dessert</title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot5>
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>Plat1</title>
+            <plat> Gratin de macaroni à la dinde Dindes du Haff a Sewen Meispelt</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Gratin de macaroni aux légumes</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat> Brownie</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Potaufeu de bœuf bœuf (Galloway) cuit dans son bouillon avec des légumes</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Potaufeu végétarien</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat> Pommes de terre nature</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>Dessert</title>
+            <plat> Muffin à la vanille</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Curry aux lentilles</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Quinoa à la fondue de poireaux</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>Accompagnement</title>
+            <plat> Tortillas bio</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>dessert</title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Quenelles de brochet sauce Nantua sauce à base de crustacés</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Steak de choufleur sauce Aurore sauce tomatée</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat> Riz de Camargue</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>Legumes</title>
+            <plat> Tiramisu</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot5>
+            <title>dessert</title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot5>
+  </jeudi>
+  <vendredi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Pizza Margherita</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Pizza Béchamel et légumes Champignons, poireaux et carottes</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat> Rouleau à la confiture de myrtilles maison</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+  </vendredi>
+</menu>
+
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>Plat1</title>
+            <plat> Gratin de macaroni à la dinde Dindes du Haff a Sewen Meispelt</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Gratin de macaroni aux légumes</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat> Brownie</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Potaufeu de bœuf bœuf (Galloway) cuit dans son bouillon avec des légumes</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Potaufeu végétarien</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat> Pommes de terre nature</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>Dessert</title>
+            <plat> Muffin à la vanille</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Curry aux lentilles</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Quinoa à la fondue de poireaux</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>Accompagnement</title>
+            <plat> Tortillas bio</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>dessert</title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Quenelles de brochet sauce Nantua sauce à base de crustacés</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Steak de choufleur sauce Aurore sauce tomatée</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat> Riz de Camargue</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>Legumes</title>
+            <plat> Tiramisu</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot0>
+            <title>potage</title>
+            <plat> Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> Pizza Margherita</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> Pizza Béchamel et légumes Champignons, poireaux et carottes</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat> Rouleau à la confiture de myrtilles maison</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>

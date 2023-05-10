@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internats_menu>
+       <date>menu du 06 au 09 juin 2022</date>
+        <slot0>
+            <title>lundi</title>
+            <plat>06 
+Férier</plat>
+        </slot0>
+
+        <slot1>
+            <title>mardi</title>
+            <plat>07 
+Risotto aux asperges</plat>
+        </slot1>
+
+        <slot2>
+            <title>mercredi</title>
+            <plat>08 
+Fajitas de 
+Poulet bio 
+Fajitas vegetarien</plat>
+        </slot2>
+
+        <slot3>
+            <title>jeudi</title>
+            <plat>09 
+Boulette de boeuf a la liegeoise 
+Pomme au four 
+Boulette vegetarienne a la liegeoise 
+Pomme au four</plat>
+        </slot3>
+</internats_menu>

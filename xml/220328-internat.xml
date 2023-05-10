@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internats_menu>
+       <date>menu du 28 au 31 mars 2022</date>
+        <slot0>
+            <title>lundi</title>
+            <plat>Chili sin carne 
+Riz camargue</plat>
+        </slot0>
+
+        <slot1>
+            <title>mardi</title>
+            <plat>Spaghetti fruit de mer 
+Spaghetti tomate basilic</plat>
+        </slot1>
+
+        <slot2>
+            <title>mercredi</title>
+            <plat>Riz sauté au poulet à la chinoise 
+Riz sauté à la chinoise 
+Pana cotta aux fruits rouge</plat>
+        </slot2>
+
+        <slot3>
+            <title>jeudi</title>
+            <plat>Bouneschlupp 
+Bouneschlupp végétarienne</plat>
+        </slot3>
+</internats_menu>

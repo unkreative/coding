@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <Mardi>
+        <date>Mardi DATE avril 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour 2</plat>  
+            <undertitle>89dfg</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>Plat1 2</plat>  
+            <undertitle>7dfg</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>46dfg</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>23</plat>  
+            <undertitle>dfgdfgdfg</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes</title>
+            <plat>ssss</plat>  
+            <undertitle>2</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert</title>
+            <plat>dfgs</plat>  
+            <undertitle>222</undertitle>
+        </slot5>
+    </Mardi>
+    <Mercredi>
+        <date>Mercredi DATE MOIS 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour 39fg</plat>  
+            <undertitle>9</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>Plat1 3dfgd</plat>  
+            <undertitle>9</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>accompagnement</title>
+            <plat>9dfg</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>légumes</title>
+            <plat>9</plat>  
+            <undertitle></undertitle>
+        </slot3>
+    </Mercredi>
+    <Jeudi>
+        <date>Jeudi DATE MOIS 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour 40</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>Plat1 4</plat>  
+            <undertitle>'978</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>accompagnement</title>
+            <plat>8</plat>  
+            <undertitle>9</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>légumes</title>
+            <plat>7</plat>  
+            <undertitle>65</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>dessert</title>
+            <plat>55</plat>  
+            <undertitle>443</undertitle>
+        </slot4>
+    </Jeudi>
+</menu>
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <Mardi>
+        <date>Mardi DATE avril 2022</date>
+
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 2</plat>  
+            <undertitle>89dfg</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 2</plat>  
+            <undertitle>7dfg</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat>46dfg</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>23</plat>  
+            <undertitle>dfgdfgdfg</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat>ssss</plat>  
+            <undertitle>2</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat>dfgs</plat>  
+            <undertitle>222</undertitle>
+        </slot5>
+    </Mardi>
+    <Mercredi>
+        <date>Mercredi DATE MOIS 2022</date>
+
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 39fg</plat>  
+            <undertitle>9</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 3dfgd</plat>  
+            <undertitle>9</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>accompagnement</title>
+            <plat>9dfg</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>légumes_</title>
+            <plat>9</plat>  
+            <undertitle></undertitle>
+        </slot3>
+    </Mercredi>
+    <Jeudi>
+        <date>Jeudi DATE MOIS 2022</date>
+
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 40</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 4</plat>  
+            <undertitle>'978</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>accompagnement</title>
+            <plat>8</plat>  
+            <undertitle>9</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>légumes_</title>
+            <plat>7</plat>  
+            <undertitle>65</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>dessert_</title>
+            <plat>55</plat>  
+            <undertitle>443</undertitle>
+        </slot4>
+    </Jeudi>
+</menu>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+   <lundi>
+       <date>Lundi 28 mars 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>risotto aux champignons et aux courgettes</plat>  
+                    <undertitle>riz rond du Portugal, champignons de Naturhaff de Derenbach, courgettes de serre</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>risotto aux poireaux, carottes et courgettes</plat>  
+                    <undertitle>poireaux de Naturlëtz (distributeur de producteurs régionaux)</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>Gâteau aux noix</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </lundi>
+   <mardi>
+       <date>Mardi 29 mars 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>pot-au-feu de lentilles, pommes de terre, carottes et de jeune bovin</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Dahl de tofu, pommes de terre et carottes</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>fruit</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </mardi>
+   <mercredi>
+       <date>Mercredi 30 mars 2022</date>
+                <slot0>
+                    <title>plat 1</title>
+                    <plat>Kniddelen sauce tomates légumes</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 2</title>
+                    <plat>Kniddelen sauce crème et lardons</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>dessert</title>
+                    <plat>surprise</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </mercredi>
+   <jeudi>
+       <date>Jeudi 31 mars 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Ramen au porc</plat>  
+                    <undertitle>porc du Kass-Haff de Rollingen</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Ramen au tofu</plat>  
+                    <undertitle>tofu de Taifun (soja allemand)</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>accompagnement</title>
+                    <plat>pâtes de riz</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>dessert</title>
+                    <plat>Brownies</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </jeudi>
+   <vendredi>
+       <date>Vendredi 1 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Tagliatelle au mix de poissons</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Tagliatelle aux brocoli et aux amandes</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>fruit</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </vendredi>
+</menu>

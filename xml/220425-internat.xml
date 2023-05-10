@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internats_menu>
+       <date>menu du 25 au 28 avril 2022</date>
+        <slot0>
+            <title>lundi</title>
+            <plat>Omelette jambon fromage asperges 
+Omelette fromage asperges</plat>
+        </slot0>
+
+        <slot1>
+            <title>mardi</title>
+            <plat>Spaghetti complètes tomate basilic</plat>
+        </slot1>
+
+        <slot2>
+            <title>mercredi</title>
+            <plat>Gyros de poulet 
+Pain pita 
+Sauce blanche 
+Gyros de tofu 
+Pain pita 
+Choux et 
+Tomates</plat>
+        </slot2>
+
+        <slot3>
+            <title>jeudi</title>
+            <plat>Tarte fine tomates courgettes parmesan salade</plat>
+        </slot3>
+</internats_menu>

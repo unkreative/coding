@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+
+<script>
+    import { jsPDF } from "jspdf";
+    const doc = new jsPDF();
+    doc.text("hello wolrd", 10, 10)
+    doc.save("a4.pdf")
+</script>

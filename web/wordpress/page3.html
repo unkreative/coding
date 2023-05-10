@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <script>
+            function insert_sql () {
+            let sql = $sql
+            // make the new lundi tab
+            const parentelement = document.getElementById('insert');
+            let html = `<h1>${sql}<h1>`
+            parentelement.insertAdjacentHTML("beforeend", html);
+
+            }
+        </script>
+    </body>
+</html>

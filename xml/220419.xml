@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+   <mardi>
+       <date>Mardi 19 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Spaghetti Bolognese</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Spaghetti aux lentilles</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>Fruit</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </mardi>
+   <mercredi>
+       <date>Mercredi 20 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Saumon</plat>  
+                    <undertitle>sauce blanche au citron et à l’oseille, pommes de terre nature, petits pois</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Tortillas</plat>  
+                    <undertitle>plat espagnol : œufs, pommes de terre, légumes</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>Tiramisu</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </mercredi>
+   <jeudi>
+       <date>Jeudi 21 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Bouchée à la reine</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Bouchée-rave</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>accompagnement</title>
+                    <plat>Riz de Camargue</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>légumes</title>
+                    <plat>Champignons</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>dessert</title>
+                    <plat>Schuedi (tarte au sucre, Luxemburger Butterkuchen)</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </jeudi>
+   <vendredi>
+       <date>Vendredi 22 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Foccacia tomates mozzarella</plat>  
+                    <undertitle>Fromagerie de Luxembourg</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Foccacia olives Feta</plat>  
+                    <undertitle>Feta de chèvre de la ferme Baltes</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </vendredi>
+</menu>
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+   <mardi>
+       <date>Mardi 19 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Spaghetti Bolognese</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Spaghetti aux lentilles</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>Fruit</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </mardi>
+   <mercredi>
+       <date>Mercredi 20 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Saumon</plat>  
+                    <undertitle>sauce blanche au citron et à l’oseille, pommes de terre nature, petits pois</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Tortillas</plat>  
+                    <undertitle>plat espagnol : œufs, pommes de terre, légumes</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>dessert</title>
+                    <plat>Tiramisu</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </mercredi>
+   <jeudi>
+       <date>Jeudi 21 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Bouchée à la reine</plat>  
+                    <undertitle>¥</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Bouchée-rave</plat>  
+                    <undertitle>¥</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>accompagnement</title>
+                    <plat>Riz de Camargue</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>légumes</title>
+                    <plat>Champignons</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>dessert</title>
+                    <plat>Schuedi (tarte au sucre, Luxemburger Butterkuchen)</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </jeudi>
+   <vendredi>
+       <date>Vendredi 22 avril 2022</date>
+                <slot0>
+                    <title>potage</title>
+                    <plat>Potage du jour</plat>  
+                    <undertitle>¥</undertitle>
+                </slot0>
+ 
+                <slot1>
+                    <title>plat 1</title>
+                    <plat>Foccacia tomates mozzarella</plat>  
+                    <undertitle>Fromagerie de Luxembourg</undertitle>
+                </slot1>
+ 
+                <slot2>
+                    <title>plat 2</title>
+                    <plat>Foccacia olives Feta</plat>  
+                    <undertitle>Feta de chèvre de la ferme Baltes</undertitle>
+                </slot2>
+ 
+                <slot3>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot3>
+ 
+                <slot4>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot4>
+ 
+                <slot5>
+                    <title>¥</title>
+                    <plat>¥</plat>  
+                    <undertitle>¥</undertitle>
+                </slot5>
+   </vendredi>
+</menu>

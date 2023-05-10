@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internats_menu>
+       <date>menu du 2 au 5 mai 2022</date>
+        <slot0>
+            <title>lundi</title>
+            <plat>Penne aux petits pois et pancetta 
+Penne aux petit pois tomate et crème</plat>
+        </slot0>
+
+        <slot1>
+            <title>mardi</title>
+            <plat>Croustillant de sauce au curry</plat>
+        </slot1>
+
+        <slot2>
+            <title>mercredi</title>
+            <plat>Filet de lieu au citron, riz 
+Halloumi au citron, riz fèves persillade</plat>
+        </slot2>
+
+        <slot3>
+            <title>jeudi</title>
+            <plat>Salade de pomme de terre terre aux lyoner 
+Salade de pomme de terre bio aux manouri</plat>
+        </slot3>
+</internats_menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internats_menu>
+       <date>menu du 14 au 17 mars 2022</date>
+        <slot0>
+            <title>lundi</title>
+            <plat>Pâtes complètes aux deux pesto pesto basilic et pesto tomate</plat>
+        </slot0>
+
+        <slot1>
+            <title>mardi</title>
+            <plat>Boulette bio à la liégeoise sirop de 
+Liège 
+Tofu à la liégeoise riso carottes</plat>
+        </slot1>
+
+        <slot2>
+            <title>mercredi</title>
+            <plat>Pommes de terre au four salade 
+Compote de pommes 
+Kaalen 
+Hond maison</plat>
+        </slot2>
+
+        <slot3>
+            <title>jeudi</title>
+            <plat>Gratin de et de poulet haricots rouges, maïs, poivron, mozzarella 
+Gratin de légumes et de seitan légumes</plat>
+        </slot3>
+</internats_menu>

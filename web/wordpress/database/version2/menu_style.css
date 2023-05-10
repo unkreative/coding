@@ -1,0 +1,136 @@
+select {
+    margin-top: 10px;
+
+    background-color: #303245;
+
+    border: 0;
+    border: none;
+    resize: none;
+    outline: none;
+    height: 30px;
+    text-align: left;
+    padding: 10px 20px 0;
+
+    
+}
+select textarea{
+text-align: center;}
+button {
+    margin: 10px;
+    margin-left: 0px;
+}
+label {
+    color: #eee;
+    display: block;
+
+    /* padding: 0px 10px 1; */
+    border: #15172b;
+    border-width: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10x;
+    margin-bottom: 0px;
+    
+    font-family: sans-serif;
+}
+ 
+input[type='text']{
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.89);
+    /* line-height: 30px; */
+    }
+
+input[type="text"], textarea {
+    margin-top: 0px;
+
+    background-color: #303245;
+    border-radius: 10px;
+    border: 0;
+    /* box-sizing: border-box; */
+    border: none;
+    resize: none;
+    outline: none;
+    font-size: 18px;
+    height: 50px;
+    padding: 0px 20px 0;
+    width: 90%;
+    }
+       
+h1 {
+    font-family: sans-serif;
+    font-weight: serif;
+    color: #eee;
+    }
+h3 {
+    font-family: sans-serif;
+    font-weight: serif;
+    color: #eee           
+    }
+
+select {
+    
+    background-color: #303245;
+    border-radius: 5px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    font-size: 18px;
+    outline: 0;
+    padding: 10px 20px 0;
+       
+    }
+       
+input[type="date"], textarea {
+    background-color: #303245;
+    border-radius: 5px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    font-size: 18px;
+    height: 100%;
+    outline: 0;
+    padding: 4px 20px 0;   
+    }
+    
+.submit {
+    background-color: #08d;
+    border-radius: 12px;
+    border: 0;
+    padding: 12px;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    /* margin-top: 38px; */
+    }
+    
+    ::placeholder {
+        vertical-align: baseline;
+    }
+    
+    .box {
+    
+    width: 90%;
+    background-color: #15172b; ;
+
+    padding: 10px;
+    height: 100%;
+    margin: 10px;
+    border-radius:10px;
+    box-shadow: 10px 10px 5px 0px rgba(70, 59, 59, 0.75);
+    
+    }
+    
+    .row {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    border: 0px solid black;
+    padding: 1px;
+    height: 100%;
+    }
+    .column {
+    flex: 100%;
+    }
+    

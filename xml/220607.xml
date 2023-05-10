@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <Mardi>
+        <date>Mardi 7 juin 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>Burritos</plat>  
+            <undertitle>viande de bœuf, maïs, poivrons, haricots rouges</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>Burritos végétariens</plat>  
+            <undertitle>maïs, poivrons, haricots rouges</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>suppléments pour farce</plat>  
+            <undertitle></undertitle>
+        </slot3>
+
+        <slot4>
+            <title>dessert</title>
+            <plat>cookies</plat>  
+            <undertitle></undertitle>
+        </slot4>
+    </Mardi>
+    <Mercredi>
+        <date>Mercredi 8 juin 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>Gratin de riz rouge de Camargue aux poireaux et à la feta de la ferme de Baltes</plat>  
+            <undertitle></undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>Courgettes farcie au millet</plat>  
+            <undertitle>sauce à l’ail</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>légumes</title>
+            <plat>salad bar</plat>  
+            <undertitle></undertitle>
+        </slot3>
+
+        <slot4>
+            <title>dessert</title>
+            <plat>Cinnamon rolls à la farine complète</plat>  
+            <undertitle></undertitle>
+        </slot4>
+    </Mercredi>
+    <Jeudi>
+        <date>Jeudi 9 juin 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>Spaghetti au poisson</plat>  
+            <undertitle></undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>Spaghetti aux légumes</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>dessert</title>
+            <plat>Salade de fruits</plat>  
+            <undertitle></undertitle>
+        </slot3>
+    </Jeudi>
+    <Vendredi>
+        <date>Vendredi 10 juin 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>Omelette algues et salicorne</plat>  
+            <undertitle></undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>Risotto algues et salicorne</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>dessert</title>
+            <plat>Crêpes à la cassonade | Crêpes au chocolat</plat>  
+            <undertitle></undertitle>
+        </slot3>
+    </Vendredi>
+</menu>

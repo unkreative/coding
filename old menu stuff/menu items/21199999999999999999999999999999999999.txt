@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <lundi>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>Plat1</title>
+            <plat>Spaghetti bolognaise</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Spaghetti sauce végétarienne</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat>Cake au yaourt</plat>  
+            <undertitle></undertitle>
+        </slot3>
+  </lundi>
+  <mardi>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat>Roulade de bœuf au jus lié bœuf Galloway de Gallolux Lintgen</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Galette de millet et de poireaux sauce curry</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat>Riz de Camargue</plat>  
+            <undertitle></undertitle>
+        </slot3>
+  </mardi>
+  <mercredi>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat>Gratin de chicons</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Roulées de poireaux et de choux</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>Purée de pommes de terre</plat>  
+            <undertitle></undertitle>
+        </slot3>
+  </mercredi>
+  <jeudi>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat>Gromperekichelcher</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Compote de pommes</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>Tarte aux myrtilles</plat>  
+            <undertitle></undertitle>
+        </slot3>
+  </jeudi>
+  <vendredi>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat>Ragoût de marcassin</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Ragoût de tofu fumé</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat>Spätzle</plat>  
+            <undertitle></undertitle>
+        </slot3>
+        <slot4>
+            <title>Légumes</title>
+            <plat>Gâteau truffe</plat>  
+            <undertitle></undertitle>
+        </slot4>
+  </vendredi>
+</menu>
+
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>Plat1</title>
+            <plat>Spaghetti bolognaise</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Spaghetti sauce végétarienne</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat>Cake au yaourt</plat>  
+            <undertitle></undertitle>
+        </slot3>
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat>Roulade de bœuf au jus lié bœuf Galloway de Gallolux Lintgen</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Galette de millet et de poireaux sauce curry</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat>Riz de Camargue</plat>  
+            <undertitle></undertitle>
+        </slot3>
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat>Gratin de chicons</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Roulées de poireaux et de choux</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>Purée de pommes de terre</plat>  
+            <undertitle></undertitle>
+        </slot3>
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat>Gromperekichelcher</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Compote de pommes</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>Tarte aux myrtilles</plat>  
+            <undertitle></undertitle>
+        </slot3>
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat>Ragoût de marcassin</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Ragoût de tofu fumé</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat>Spätzle</plat>  
+            <undertitle></undertitle>
+        </slot3>
+        <slot4>
+            <title>Légumes</title>
+            <plat>Gâteau truffe</plat>  
+            <undertitle></undertitle>
+        </slot4>
+        <slot0>
+            <title>potage</title>
+            <plat>Potage du jour</plat>  
+            <undertitle></undertitle>
+        </slot0>
+        <slot1>
+            <title>Plat1</title>
+            <plat>Spaghetti bolognaise</plat>  
+            <undertitle></undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat>Spaghetti sauce végétarienne</plat>  
+            <undertitle></undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat>Cake au yaourt</plat>  
+            <undertitle></undertitle>
+        </slot3>

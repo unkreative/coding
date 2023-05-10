@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>menu</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
+        <style type="text/css">
+            
+            input[type="text"], textarea {
+
+                background-color : #e9e9e9; 
+                border: 1px;
+                width: 90%;
+
+
+            }
+            .box {
+                background-color: #cfc ;
+                width: 90%;
+                padding: 10px;
+                height: 100%;
+                margin: 0px;
+                border-radius: 18px 18px 18px 18px;
+                -moz-border-radius: 18px 18px 18px 18px;
+                -webkit-border-radius: 18px 18px 18px 18px;
+                border: 0px solid #000000;
+                webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+                -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+                box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+            }
+            
+            .row {
+                display: flex;
+                margin: auto;
+                width: 100%;
+                border: 0px solid black;
+                padding: 1px;
+                height: 100%;
+            }
+            
+            .column {
+                flex: 100%;
+            }
+
+        </style>
+    </head>
+    <body>
+    <div id="main" class="row">
+       <div id="lundi" class="row">
+            <div id="lundi_column0" class="column">
+                <div class="box">
+                    <h1>lundi</h1>
+                <form>
+                    <form>
+                        <label for="potage">potage</label><br>
+                        <input type="text" id="potage" name="potage" placeholder="plat">
+                        <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="plat_1">plat_1</label><br>
+                        <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                        <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="plat_2">plat_2</label><br>
+                        <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                        <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="accompagnement">accompagnement</label><br>
+                        <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                        <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="légumes">légumes</label><br>
+                        <input type="text" id="légumes" name="légumes" placeholder="plat">
+                        <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="dessert">dessert</label><br>
+                        <input type="text" id="dessert" name="dessert" placeholder="plat">
+                        <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+                    </form>
+                </form>
+                <br>
+
+                    <button id="remove_lundi0" onClick="remove_lundi('lundi_column0')">remove</button>
+
+                </div>
+            </div>
+    </div>
+       
+       <script>
+        var num_lundi;
+        num_lundi = 1
+        function remove_lundi(div_id) {
+            // delete thing
+            let div = document.getElementById(div_id);
+            div.parentNode.removeChild(div);
+            // make new button
+
+            const h2 = document.getElementById("lundi");
+            let html = "<div class='column' id='new_btn_lundi'><button onClick=add_lundi()>new</button></div>";
+            h2.insertAdjacentHTML("beforeend", html);
+
+        }
+        function add_lundi() {
+            // remove new button
+            let div = document.getElementById('new_btn_lundi');
+            div.parentNode.removeChild(div);
+            // make the new lundi tab
+            const parentelement = document.getElementById("lundi");
+            let html = `<div id="lundi_column${num_lundi}" class="column">
+                <div class="box">
+                    <h1>Lundi</h1>
+                <form>
+                    <form>
+                        <label for="potage">potage</label><br>
+                        <input type="text" id="potage" name="potage" placeholder="plat">
+                        <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="plat_1">plat_1</label><br>
+                        <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                        <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="plat_2">plat_2</label><br>
+                        <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                        <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="accompagnement">accompagnement</label><br>
+                        <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                        <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="légumes">légumes</label><br>
+                        <input type="text" id="légumes" name="légumes" placeholder="plat">
+                        <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+                    </form>
+                    <br>
+                    <form>
+                        <label for="dessert">dessert</label><br>
+                        <input type="text" id="dessert" name="dessert" placeholder="plat">
+                        <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+                    </form>
+                </form>
+                <br>
+
+                    <button id="remove_lundi0" onClick="remove_lundi('lundi_column${num_lundi}')">remove</button>
+
+                </div>
+            </div>
+    </div>`
+            parentelement.insertAdjacentHTML("beforeend", html);
+            num_lundi = num_lundi + 1
+
+
+        }
+       </script>
+
+<div id="mardi" class="row">
+    <div id="mardi_column0" class="column">
+        <div class="box">
+            <h1>mardi</h1>
+        <form>
+            <form>
+                <label for="potage">potage</label><br>
+                <input type="text" id="potage" name="potage" placeholder="plat">
+                <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_1">plat_1</label><br>
+                <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_2">plat_2</label><br>
+                <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="accompagnement">accompagnement</label><br>
+                <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="légumes">légumes</label><br>
+                <input type="text" id="légumes" name="légumes" placeholder="plat">
+                <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="dessert">dessert</label><br>
+                <input type="text" id="dessert" name="dessert" placeholder="plat">
+                <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+            </form>
+        </form>
+        <br>
+
+            <button id="remove_mardi0" onClick="remove_mardi('mardi_column0')">remove</button>
+
+        </div>
+    </div>
+</div>
+<script>
+    var num_mardi;
+    num_mardi = 1
+    function remove_mardi(div_id) {
+        // delete thing
+        let div = document.getElementById(div_id);
+        div.parentNode.removeChild(div);
+        // make new button
+
+        const h2 = document.getElementById("mardi");
+        let html = "<div class='column' id='new_btn_mardi'><button onClick=add_mardi()>new</button></div>";
+        h2.insertAdjacentHTML("beforeend", html);
+
+    }
+    function add_mardi() {
+        // remove new button
+        let div = document.getElementById('new_btn_mardi');
+        div.parentNode.removeChild(div);
+        // make the new lundi tab
+        const parentelement = document.getElementById("mardi");
+        let html = `
+        <div id="mardi_column${num_mardi}" class="column">
+            <div class="box">
+                <h1>mardi</h1>
+            <form>
+                <form>
+                    <label for="potage">potage</label><br>
+                    <input type="text" id="potage" name="potage" placeholder="plat">
+                    <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+                </form>
+                <br>
+                <form>
+                    <label for="plat_1">plat_1</label><br>
+                    <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                    <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+                </form>
+                <br>
+                <form>
+                    <label for="plat_2">plat_2</label><br>
+                    <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                    <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+                </form>
+                <br>
+                <form>
+                    <label for="accompagnement">accompagnement</label><br>
+                    <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                    <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+                </form>
+                <br>
+                <form>
+                    <label for="légumes">légumes</label><br>
+                    <input type="text" id="légumes" name="légumes" placeholder="plat">
+                    <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+                </form>
+                <br>
+                <form>
+                    <label for="dessert">dessert</label><br>
+                    <input type="text" id="dessert" name="dessert" placeholder="plat">
+                    <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+                </form>
+            </form>
+            <br>
+    
+                <button id="remove_mardi${num_mardi}" onClick="remove_mardi('mardi_column${num_mardi}')">remove</button>
+    
+            </div>
+        </div>
+    </div>`
+        console.log(html)
+        parentelement.insertAdjacentHTML("beforeend", html);
+        num_mardi = num_mardi + 1
+
+
+    }
+   </script>
+<div id="mercredi" class="row">
+    <div id="mercredi_column0" class="column">
+        <div class="box">
+            <h1>mercredi</h1>
+        <form>
+            <form>
+                <label for="potage">potage</label><br>
+                <input type="text" id="potage" name="potage" placeholder="plat">
+                <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_1">plat_1</label><br>
+                <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_2">plat_2</label><br>
+                <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="accompagnement">accompagnement</label><br>
+                <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="légumes">légumes</label><br>
+                <input type="text" id="légumes" name="légumes" placeholder="plat">
+                <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="dessert">dessert</label><br>
+                <input type="text" id="dessert" name="dessert" placeholder="plat">
+                <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+            </form>
+        </form>
+        <br>
+
+            <button id="remove_mercredi0" onClick="remove_mercredi('mercredi_column0')">remove</button>
+
+        </div>
+    </div>
+</div>
+
+<script>
+var num_mercredi;
+num_mercredi = 1
+function remove_mercredi(div_id) {
+    // delete thing
+    let div = document.getElementById(div_id);
+    div.parentNode.removeChild(div);
+    // make new button
+
+    const h2 = document.getElementById("mercredi");
+    let html = "<div class='column' id='new_btn_mercredi'><button onClick=add_mercredi()>new</button></div>";
+    h2.insertAdjacentHTML("beforeend", html);
+
+}
+function add_mercredi() {
+    // remove new button
+    let div = document.getElementById('new_btn_mercredi');
+    div.parentNode.removeChild(div);
+    // make the new mercredi tab
+    const parentelement = document.getElementById("mercredi");
+    let html = `<div id="mercredi_column${num_mercredi}" class="column">
+        <div class="box">
+            <h1>mercredi</h1>
+        <form>
+            <form>
+                <label for="potage">potage</label><br>
+                <input type="text" id="potage" name="potage" placeholder="plat">
+                <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_1">plat_1</label><br>
+                <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_2">plat_2</label><br>
+                <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="accompagnement">accompagnement</label><br>
+                <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="légumes">légumes</label><br>
+                <input type="text" id="légumes" name="légumes" placeholder="plat">
+                <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="dessert">dessert</label><br>
+                <input type="text" id="dessert" name="dessert" placeholder="plat">
+                <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+            </form>
+        </form>
+        <br>
+
+            <button id="remove_mercredi0" onClick="remove_mercredi('mercredi_column${num_mercredi}')">remove</button>
+
+        </div>
+    </div>
+</div>`
+    parentelement.insertAdjacentHTML("beforeend", html);
+    num_mercredi = num_mercredi + 1
+
+
+}
+</script>
+<div id="jeudi" class="row">
+    <div id="jeudi_column0" class="column">
+        <div class="box">
+            <h1>jeudi</h1>
+        <form>
+            <form>
+                <label for="potage">potage</label><br>
+                <input type="text" id="potage" name="potage" placeholder="plat">
+                <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_1">plat_1</label><br>
+                <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_2">plat_2</label><br>
+                <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="accompagnement">accompagnement</label><br>
+                <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="légumes">légumes</label><br>
+                <input type="text" id="légumes" name="légumes" placeholder="plat">
+                <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="dessert">dessert</label><br>
+                <input type="text" id="dessert" name="dessert" placeholder="plat">
+                <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+            </form>
+        </form>
+        <br>
+
+            <button id="remove_jeudi0" onClick="remove_jeudi('jeudi_column0')">remove</button>
+
+        </div>
+    </div>
+</div>
+
+<script>
+var num_jeudi;
+num_jeudi = 1
+function remove_jeudi(div_id) {
+    // delete thing
+    let div = document.getElementById(div_id);
+    div.parentNode.removeChild(div);
+    // make new button
+
+    const h2 = document.getElementById("jeudi");
+    let html = "<div class='column' id='new_btn_jeudi'><button onClick=add_jeudi()>new</button></div>";
+    h2.insertAdjacentHTML("beforeend", html);
+
+}
+function add_jeudi() {
+    // remove new button
+    let div = document.getElementById('new_btn_jeudi');
+    div.parentNode.removeChild(div);
+    // make the new jeudi tab
+    const parentelement = document.getElementById("jeudi");
+    let html = `<div id="jeudi_column${num_jeudi}" class="column">
+        <div class="box">
+            <h1>jeudi</h1>
+        <form>
+            <form>
+                <label for="potage">potage</label><br>
+                <input type="text" id="potage" name="potage" placeholder="plat">
+                <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_1">plat_1</label><br>
+                <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_2">plat_2</label><br>
+                <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="accompagnement">accompagnement</label><br>
+                <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="légumes">légumes</label><br>
+                <input type="text" id="légumes" name="légumes" placeholder="plat">
+                <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="dessert">dessert</label><br>
+                <input type="text" id="dessert" name="dessert" placeholder="plat">
+                <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+            </form>
+        </form>
+        <br>
+
+            <button id="remove_jeudi0" onClick="remove_jeudi('jeudi_column${num_jeudi}')">remove</button>
+
+        </div>
+    </div>
+</div>`
+    parentelement.insertAdjacentHTML("beforeend", html);
+    num_jeudi = num_jeudi + 1
+
+
+}
+</script>
+<div id="vendredi" class="row">
+    <div id="vendredi_column0" class="column">
+        <div class="box">
+            <h1>vendredi</h1>
+        <form>
+            <form>
+                <label for="potage">potage</label><br>
+                <input type="text" id="potage" name="potage" placeholder="plat">
+                <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_1">plat_1</label><br>
+                <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_2">plat_2</label><br>
+                <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="accompagnement">accompagnement</label><br>
+                <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="légumes">légumes</label><br>
+                <input type="text" id="légumes" name="légumes" placeholder="plat">
+                <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="dessert">dessert</label><br>
+                <input type="text" id="dessert" name="dessert" placeholder="plat">
+                <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+            </form>
+        </form>
+        <br>
+
+            <button id="remove_vendredi0" onClick="remove_vendredi('vendredi_column0')">remove</button>
+
+        </div>
+    </div>
+</div>
+
+<script>
+var num_vendredi;
+num_vendredi = 1
+function remove_vendredi(div_id) {
+    // delete thing
+    let div = document.getElementById(div_id);
+    div.parentNode.removeChild(div);
+    // make new button
+
+    const h2 = document.getElementById("vendredi");
+    let html = "<div class='column' id='new_btn_vendredi'><button onClick=add_vendredi()>new</button></div>";
+    h2.insertAdjacentHTML("beforeend", html);
+
+}
+function add_vendredi() {
+    // remove new button
+    let div = document.getElementById('new_btn_vendredi');
+    div.parentNode.removeChild(div);
+    // make the new vendredi tab
+    const parentelement = document.getElementById("vendredi");
+    let html = `<div id="vendredi_column${num_vendredi}" class="column">
+        <div class="box">
+            <h1>vendredi</h1>
+        <form>
+            <form>
+                <label for="potage">potage</label><br>
+                <input type="text" id="potage" name="potage" placeholder="plat">
+                <input type="text" id="subtitle_potage" name="subtitle_potage" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_1">plat_1</label><br>
+                <input type="text" id="plat_1" name="plat_1" placeholder="plat">
+                <input type="text" id="subtitle_plat_1" name="subtitle_plat_1" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="plat_2">plat_2</label><br>
+                <input type="text" id="plat_2" name="plat_2" placeholder="plat">
+                <input type="text" id="subtitle_plat_2" name="subtitle_plat_2" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="accompagnement">accompagnement</label><br>
+                <input type="text" id="accompagnement" name="accompagnement" placeholder="plat">
+                <input type="text" id="subtitle_accompagnement" name="subtitle_accompagnement" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="légumes">légumes</label><br>
+                <input type="text" id="légumes" name="légumes" placeholder="plat">
+                <input type="text" id="subtitle_légumes" name="subtitle_légumes" placeholder="subtitle">
+            </form>
+            <br>
+            <form>
+                <label for="dessert">dessert</label><br>
+                <input type="text" id="dessert" name="dessert" placeholder="plat">
+                <input type="text" id="subtitle_dessert" name="subtitle_dessert" placeholder="subtitle">
+            </form>
+        </form>
+        <br>
+
+            <button id="remove_vendredi0" onClick="remove_vendredi('vendredi_column${num_vendredi}')">remove</button>
+
+        </div>
+    </div>
+</div>`
+    parentelement.insertAdjacentHTML("beforeend", html);
+    num_vendredi = num_vendredi + 1
+
+
+}
+</script>
+</div>
+
+    </body>
+</html>

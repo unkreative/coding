@@ -1,0 +1,55 @@
+#todo
+#1. create file with name
+#2. write xml in file
+#3. convert file into xml format
+#4. 
+date = "Lundi 22 novembre"
+
+days = ['lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi']
+
+lundi_plats = ['potage', 'Plat1', 'plat2', 'dessert', ' ', ' ', ' ']
+mardi_plats = ['potage', 'plat1', 'plat2', 'accompagnement', 'Legumes', 'Dessert', ' ']
+mercredi_plats = ['potage', 'plat1', 'plat2', 'Accompagnement', 'dessert', ' ', ' ']
+jeudi_plats = ['potage', 'plat1', 'plat2', 'accompagnement', 'Legumes', 'dessert', ' ']
+vendredi_plats = ['potage', 'plat1', 'plat2', 'dessert', ' ', ' ', ' ']
+
+lslot1 = ['potage', 'Potage', 'du', 'jour']
+lslot2 = ['Plat1', 'Gratin', 'de', 'macaroni', 'à', 'la', 'dinde', 'Dindes', 'du', 'Haff', 'a', 'Sewen', 'Meispelt']
+lslot3 = ['plat2', 'Gratin', 'de', 'macaroni', 'aux', 'légumes']
+lslot4 = ['dessert', 'Brownie']
+lslot5 = []
+lslot6 = []
+
+maslot1 = ['potage', 'Potage', 'du', 'jour']
+maslot2 = ['plat1', 'Potaufeu', 'de', 'bœuf', 'bœuf', '(Galloway)', 'cuit', 'dans', 'son', 'bouillon', 'avec', 'des', 'légumes']
+maslot3 = ['plat2', 'Potaufeu', 'végétarien']
+maslot4 = ['accompagnement', 'Pommes', 'de', 'terre', 'nature']
+maslot5 = ['Dessert', 'Muffin', 'à', 'la', 'vanille']
+maslot6 = []
+
+meslot1 = ['potage', 'Potage', 'du', 'jour']
+meslot2 = ['plat1', 'Curry', 'aux', 'lentilles']
+meslot3 = ['plat2', 'Quinoa', 'à', 'la', 'fondue', 'de', 'poireaux']
+meslot4 = ['Accompagnement', 'Tortillas', 'bio']
+meslot5 = []
+meslot6 = []
+
+jslot1 = ['potage', 'Potage', 'du', 'jour']
+jslot2 = ['plat1', 'Quenelles', 'de', 'brochet', 'sauce', 'Nantua', 'sauce', 'à', 'base', 'de', 'crustacés']
+jslot3 = ['plat2', 'Steak', 'de', 'choufleur', 'sauce', 'Aurore', 'sauce', 'tomatée']
+jslot4 = ['accompagnement', 'Riz', 'de', 'Camargue']
+jslot5 = ['dessert', 'Tiramisu']
+jslot6 = []
+
+vslot1 = ['potage', 'Potage', 'du', 'jour']
+vslot2 = ['plat1', 'Pizza', 'Margherita']
+vslot3 = ['plat2', 'Pizza', 'Béchamel', 'et', 'légumes', 'Champignons,', 'poireaux', 'et', 'carottes']
+vslot4 = ['dessert', 'Rouleau', 'à', 'la', 'confiture', 'de', 'myrtilles', 'maison']
+vslot5 = []
+vslot6 = []
+
+#def file():
+
+from time import strptime
+
+strptime('Feb','%b').tm_mon

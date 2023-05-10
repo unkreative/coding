@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <Lundi>
+        <date>Vendredi 2 mai 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot5>
+    </Lundi>
+    <Mardi>
+        <date>Vendredi 2 mai 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot5>
+    </Mardi>
+    <Mercredi>
+        <date>Mercredi 2 mai 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot5>
+    </Mercredi>
+    <Jeudi>
+        <date>Vendredi 2 mai 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot5>
+    </Jeudi>
+    <Vendredi>
+        <date>Vendredi 2 mai 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot5>
+    </Vendredi>
+</menu>
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <Lundi>
+        <date>Lundi 02 avril 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>dessert</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot3>
+    </Lundi>
+    <Mardi>
+        <date>Mardi 2 mai 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot1>
+
+        <slot2>
+            <title>Accompagnement</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>légumes</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot3>
+    </Mardi>
+    <Mercredi>
+        <date>Mercredi 2 mai 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot5>
+    </Mercredi>
+    <Jeudi>
+        <date>Jeudi 2 mai 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>légumes</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>dessert</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot3>
+    </Jeudi>
+    <Vendredi>
+        <date>Vendredi 2 mai 2022</date>
+
+        <slot0>
+            <title>potage</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat 1</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat 2</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>Accompagnement</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes</title>
+            <plat>¥</plat>  
+            <undertitle>¥</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert</title>
+            <plat>¥</plat>  
+            <undertitle></undertitle>
+        </slot5>
+    </Vendredi>
+</menu>

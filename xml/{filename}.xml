@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Lundi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 1</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 1</plat>  
+            <undertitle>dfgdfg</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat></plat>  
+            <undertitle>fdg</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>dfg</plat>  
+            <undertitle></undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat></plat>  
+            <undertitle>dfgddfgd</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat>fgdfg</plat>  
+            <undertitle>fg</undertitle>
+        </slot5>
+  </Lundi>
+  <Mardi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 2</plat>  
+            <undertitle>89dfg</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 2</plat>  
+            <undertitle>7dfg</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat>46dfg</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>23</plat>  
+            <undertitle>dfgdfgdfg</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat></plat>  
+            <undertitle>2</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat>dfg</plat>  
+            <undertitle>222</undertitle>
+        </slot5>
+  </Mardi>
+  <Mercredi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 39fg</plat>  
+            <undertitle>9</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 3dfgd</plat>  
+            <undertitle>9</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat></plat>  
+            <undertitle>9dfg</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>9dfg</plat>  
+            <undertitle></undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat>9</plat>  
+            <undertitle></undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat></plat>  
+            <undertitle>dfg</undertitle>
+        </slot5>
+  </Mercredi>
+  <Jeudi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 40</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 4</plat>  
+            <undertitle>'978</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat></plat>  
+            <undertitle>^</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>8</plat>  
+            <undertitle>9</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat>7</plat>  
+            <undertitle>65</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat>55</plat>  
+            <undertitle>443</undertitle>
+        </slot5>
+  </Jeudi>
+  <Vendredi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 58</plat>  
+            <undertitle>7</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 546</plat>  
+            <undertitle></undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat></plat>  
+            <undertitle>56</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat></plat>  
+            <undertitle>5</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat>5</plat>  
+            <undertitle>4</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat>5</plat>  
+            <undertitle>6</undertitle>
+        </slot5>
+  </Vendredi>
+<?xml version="1.0" encoding="UTF-8"?>
+  <Lundi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 1</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 1</plat>  
+            <undertitle>dfgdfg</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat></plat>  
+            <undertitle>fdg</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>dfg</plat>  
+            <undertitle></undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat></plat>  
+            <undertitle>dfgddfgd</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat>fgdfg</plat>  
+            <undertitle>fg</undertitle>
+        </slot5>
+  </Lundi>
+  <Mardi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 2</plat>  
+            <undertitle>89dfg</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 2</plat>  
+            <undertitle>7dfg</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat>46dfg</plat>  
+            <undertitle></undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>23</plat>  
+            <undertitle>dfgdfgdfg</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat></plat>  
+            <undertitle>2</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat>dfg</plat>  
+            <undertitle>222</undertitle>
+        </slot5>
+  </Mardi>
+  <Mercredi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 39fg</plat>  
+            <undertitle>9</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 3dfgd</plat>  
+            <undertitle>9</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat></plat>  
+            <undertitle>9dfg</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>9dfg</plat>  
+            <undertitle></undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat>9</plat>  
+            <undertitle></undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat></plat>  
+            <undertitle>dfg</undertitle>
+        </slot5>
+  </Mercredi>
+  <Jeudi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 40</plat>  
+            <undertitle></undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 4</plat>  
+            <undertitle>'978</undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat></plat>  
+            <undertitle>^</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat>8</plat>  
+            <undertitle>9</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat>7</plat>  
+            <undertitle>65</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat>55</plat>  
+            <undertitle>443</undertitle>
+        </slot5>
+  </Jeudi>
+  <Vendredi>
+        <slot0>
+            <title>potage_</title>
+            <plat>Potage du jour 58</plat>  
+            <undertitle>7</undertitle>
+        </slot0>
+
+        <slot1>
+            <title>plat_1</title>
+            <plat>Plat1 546</plat>  
+            <undertitle></undertitle>
+        </slot1>
+
+        <slot2>
+            <title>plat_2</title>
+            <plat></plat>  
+            <undertitle>56</undertitle>
+        </slot2>
+
+        <slot3>
+            <title>accompagnement</title>
+            <plat></plat>  
+            <undertitle>5</undertitle>
+        </slot3>
+
+        <slot4>
+            <title>légumes_</title>
+            <plat>5</plat>  
+            <undertitle>4</undertitle>
+        </slot4>
+
+        <slot5>
+            <title>dessert_</title>
+            <plat>5</plat>  
+            <undertitle>6</undertitle>
+        </slot5>
+  </Vendredi>
+<?xml version="1.0" encoding="UTF-8"?>
+  <Lundi>
+            <slot0>
+                <title>potage_</title>
+                <plat>Potage du jour 1</plat>  
+                <undertitle></undertitle>
+            </slot0>
+
+            <slot1>
+                <title>plat_1</title>
+                <plat>Plat1 1</plat>  
+                <undertitle>dfgdfg</undertitle>
+            </slot1>
+
+            <slot2>
+                <title>plat_2</title>
+                <plat></plat>  
+                <undertitle>fdg</undertitle>
+            </slot2>
+
+            <slot3>
+                <title>accompagnement</title>
+                <plat>dfg</plat>  
+                <undertitle></undertitle>
+            </slot3>
+
+            <slot4>
+                <title>légumes_</title>
+                <plat></plat>  
+                <undertitle>dfgddfgd</undertitle>
+            </slot4>
+
+            <slot5>
+                <title>dessert_</title>
+                <plat>fgdfg</plat>  
+                <undertitle>fg</undertitle>
+            </slot5>
+      </Lundi>
+  <Mardi>
+            <slot0>
+                <title>potage_</title>
+                <plat>Potage du jour 2</plat>  
+                <undertitle>89dfg</undertitle>
+            </slot0>
+
+            <slot1>
+                <title>plat_1</title>
+                <plat>Plat1 2</plat>  
+                <undertitle>7dfg</undertitle>
+            </slot1>
+
+            <slot2>
+                <title>plat_2</title>
+                <plat>46dfg</plat>  
+                <undertitle></undertitle>
+            </slot2>
+
+            <slot3>
+                <title>accompagnement</title>
+                <plat>23</plat>  
+                <undertitle>dfgdfgdfg</undertitle>
+            </slot3>
+
+            <slot4>
+                <title>légumes_</title>
+                <plat></plat>  
+                <undertitle>2</undertitle>
+            </slot4>
+
+            <slot5>
+                <title>dessert_</title>
+                <plat>dfg</plat>  
+                <undertitle>222</undertitle>
+            </slot5>
+      </Mardi>
+  <Mercredi>
+            <slot0>
+                <title>potage_</title>
+                <plat>Potage du jour 39fg</plat>  
+                <undertitle>9</undertitle>
+            </slot0>
+
+            <slot1>
+                <title>plat_1</title>
+                <plat>Plat1 3dfgd</plat>  
+                <undertitle>9</undertitle>
+            </slot1>
+
+            <slot2>
+                <title>plat_2</title>
+                <plat></plat>  
+                <undertitle>9dfg</undertitle>
+            </slot2>
+
+            <slot3>
+                <title>accompagnement</title>
+                <plat>9dfg</plat>  
+                <undertitle></undertitle>
+            </slot3>
+
+            <slot4>
+                <title>légumes_</title>
+                <plat>9</plat>  
+                <undertitle></undertitle>
+            </slot4>
+
+            <slot5>
+                <title>dessert_</title>
+                <plat></plat>  
+                <undertitle>dfg</undertitle>
+            </slot5>
+      </Mercredi>
+  <Jeudi>
+            <slot0>
+                <title>potage_</title>
+                <plat>Potage du jour 40</plat>  
+                <undertitle></undertitle>
+            </slot0>
+
+            <slot1>
+                <title>plat_1</title>
+                <plat>Plat1 4</plat>  
+                <undertitle>'978</undertitle>
+            </slot1>
+
+            <slot2>
+                <title>plat_2</title>
+                <plat></plat>  
+                <undertitle>^</undertitle>
+            </slot2>
+
+            <slot3>
+                <title>accompagnement</title>
+                <plat>8</plat>  
+                <undertitle>9</undertitle>
+            </slot3>
+
+            <slot4>
+                <title>légumes_</title>
+                <plat>7</plat>  
+                <undertitle>65</undertitle>
+            </slot4>
+
+            <slot5>
+                <title>dessert_</title>
+                <plat>55</plat>  
+                <undertitle>443</undertitle>
+            </slot5>
+      </Jeudi>
+  <Vendredi>
+            <slot0>
+                <title>potage_</title>
+                <plat>Potage du jour 58</plat>  
+                <undertitle>7</undertitle>
+            </slot0>
+
+            <slot1>
+                <title>plat_1</title>
+                <plat>Plat1 546</plat>  
+                <undertitle></undertitle>
+            </slot1>
+
+            <slot2>
+                <title>plat_2</title>
+                <plat></plat>  
+                <undertitle>56</undertitle>
+            </slot2>
+
+            <slot3>
+                <title>accompagnement</title>
+                <plat></plat>  
+                <undertitle>5</undertitle>
+            </slot3>
+
+            <slot4>
+                <title>légumes_</title>
+                <plat>5</plat>  
+                <undertitle>4</undertitle>
+            </slot4>
+
+            <slot5>
+                <title>dessert_</title>
+                <plat>5</plat>  
+                <undertitle>6</undertitle>
+            </slot5>
+      </Vendredi>

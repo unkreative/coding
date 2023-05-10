@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <lundi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> potage Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>Plat1</title>
+            <plat> Plat1 Spaghetti bolognaise</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> plat2 Spaghetti sauce végétarienne</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat> dessert Cake au yaourt</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+  </lundi>
+  <mardi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> potage Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> plat1 Roulade de bœuf au jus lié bœuf Galloway de Gallolux Lintgen</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> plat2 Galette de millet et de poireaux sauce curry</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat> accompagnement Riz de Camargue</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>Légumes</title>
+            <plat> dessert Verrine de pommes et pain dépices</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+        <slot5>
+            <title>dessert</title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot5>
+  </mardi>
+  <mercredi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> potage Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> plat1 Gratin de chicons</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> plat2 Roulées de poireaux et de choux</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>Accompagnement</title>
+            <plat> Accompagnement Purée de pommes de terre</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>dessert</title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+  </mercredi>
+  <jeudi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> potage Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> plat1 Gromperekichelcher</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>Légumes</title>
+            <plat> Légumes Compote de pommes</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>dessert</title>
+            <plat> dessert Tarte aux myrtilles</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+  </jeudi>
+  <vendredi>
+
+        <slot0>
+            <title>potage</title>
+            <plat> potage Potage du jour</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot0>
+        <slot1>
+            <title>plat1</title>
+            <plat> plat1 Ragot de marcassin</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot1>
+        <slot2>
+            <title>plat2</title>
+            <plat> plat2 Ragot de tofu fumé</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot2>
+        <slot3>
+            <title>accompagnement</title>
+            <plat> accompagnement Spätzle Legumes Carottes et navets</plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot3>
+        <slot4>
+            <title>dessert</title>
+            <plat></plat>  
+            <undertitle>allérgenes</undertitle>
+        </slot4>
+  </vendredi>
+</menu>
